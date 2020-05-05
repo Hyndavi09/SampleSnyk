@@ -1,7 +1,7 @@
 node {
      
   stage('Git-Checkout') {
-   git 'https://github.com/Shyamjith06/Hospital.git'
+   git 'https://github.com/Hyndavi09/SampleSnyk.git'
   }
     
  def project_path="kalingahospital"
